@@ -1,0 +1,12 @@
+{
+    "id": 3,
+    "name": "3",
+    "monitor": "eDP-1",
+    "monitorID": 0,
+    "windows": 2,
+    "hasfullscreen": false,
+    "lastwindow": "0x559d0ceb9260",
+    "lastwindowtitle": "Window",
+    "ispersistent": false,
+    "tiledLayout": "dwindle"
+}
